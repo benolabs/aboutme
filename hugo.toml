@@ -45,7 +45,7 @@ theme = "adritian-free-hugo-theme"
   URL = "#education"
   weight = 5
 
-  [[menu.footer]]
+  [[menu.header]]
   name = "Contact"
   URL = "#contact"
   weight = 6
@@ -75,7 +75,7 @@ theme = "adritian-free-hugo-theme"
   URL = "#experience"
   weight = 4
 
-  [[menu.header]]
+  [[menu.footer]]
   name = "Education"
   URL = "#education"
   weight = 5
